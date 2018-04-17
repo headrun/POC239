@@ -1,0 +1,588 @@
+20170419T062110.721: fb_browse.py: 57:         spider_closed: INFO: Message - Logout Successfully
+20170419T063222.991: fb_browse.py: 57:         spider_closed: INFO: Message - Logout Successfully
+20170419T063656.139: fb_browse.py: 57:         spider_closed: INFO: Message - Logout Successfully
+20170419T064646.92: fb_browse.py: 57:         spider_closed: INFO: Message - Logout Successfully
+20170419T064933.622: fb_browse.py: 57:         spider_closed: INFO: Message - Logout Successfully
+20170419T070041.969: fb_browse.py: 57:         spider_closed: INFO: Message - Logout Successfully
+20170419T070239.499: fb_browse.py: 57:         spider_closed: INFO: Message - Logout Successfully
+20170419T070514.798: fb_browse.py: 57:         spider_closed: INFO: Message - Logout Successfully
+20170419T073319.348: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073319.348: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3047
+20170419T073327.694: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073327.694: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3058
+20170419T073336.236: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073336.237: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3069
+20170419T073345.24: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073345.25: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3080
+20170419T073352.643: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073352.643: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3091
+20170419T073400.68: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073400.68: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3102
+20170419T073407.92: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073407.92: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3113
+20170419T073415.965: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073415.965: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3124
+20170419T073420.726: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073420.727: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3135
+20170419T073429.59: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073429.59: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3146
+20170419T073437.413: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073437.413: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3157
+20170419T073443.967: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073443.967: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3168
+20170419T073452.768: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073453.650: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3179
+20170419T073501.384: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073501.384: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3190
+20170419T073507.753: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073507.753: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3201
+20170419T073515.119: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073515.119: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3212
+20170419T073523.258: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073523.259: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3223
+20170419T073532.261: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073532.262: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3234
+20170419T073540.114: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073540.115: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3245
+20170419T073547.103: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073547.104: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3256
+20170419T073554.891: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073554.891: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3267
+20170419T073603.337: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073604.271: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3278
+20170419T073610.519: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073610.519: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3289
+20170419T073618.825: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073618.825: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3300
+20170419T073627.714: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073627.714: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3311
+20170419T073634.907: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073634.907: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3322
+20170419T073643.42: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073643.42: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3333
+20170419T073651.5: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073651.5: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3344
+20170419T073658.878: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073658.879: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3355
+20170419T073707.407: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073707.407: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3366
+20170419T073715.546: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073715.547: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3377
+20170419T073724.325: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073724.325: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3388
+20170419T073729.520: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073729.520: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3399
+20170419T073737.13: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073737.13: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3410
+20170419T073743.914: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073743.914: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3421
+20170419T073752.418: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073752.419: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3432
+20170419T073759.420: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073759.420: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3443
+20170419T073803.208: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073803.208: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3454
+20170419T073810.760: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073810.760: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3465
+20170419T073817.690: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073817.690: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3476
+20170419T073825.832: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073825.832: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3487
+20170419T073832.241: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073832.241: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3498
+20170419T073840.999: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073840.999: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3509
+20170419T073846.892: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073846.892: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3520
+20170419T073853.268: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073853.268: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3531
+20170419T073901.908: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073901.908: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3542
+20170419T073910.665: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073910.666: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3553
+20170419T073916.861: fb_browse.py: 393:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 383, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170419T073916.861: fb_browse.py: 394:         parse_profile: INFO: Message - https://mbasic.facebook.com/vyasinfosys?v=likes&sectionid=9999&lst=100015295925721%3A100000590727732%3A1492596037&startindex=3564
+20170419T073917.161: fb_browse.py: 57:         spider_closed: INFO: Message - Logout Successfully
+20170419T092753.713: fb_browse.py: 57:         spider_closed: INFO: Message - Logout Successfully
+20170419T122728.921: fb_browse.py: 57:         spider_closed: INFO: Message - Logout Successfully
+20170419T123224.986: fb_browse.py: 57:         spider_closed: INFO: Message - Logout Successfully

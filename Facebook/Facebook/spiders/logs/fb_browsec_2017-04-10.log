@@ -1,0 +1,2825 @@
+20170410T015542.816: fb_browse.py: 53:         spider_closed: INFO: Message - Logout Successfully
+20170410T030304.598: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030313.531: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030324.995: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030331.300: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030335.325: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030341.479: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030348.717: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030354.806: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030400.836: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030408.930: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030416.953: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030420.943: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030428.651: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030437.541: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030442.123: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030449.26: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030453.615: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030457.958: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030506.907: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030513.356: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030521.119: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030529.112: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030535.940: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030544.927: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030550.989: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030556.467: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030603.380: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030610.656: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030617.451: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030626.170: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030633.931: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030642.770: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030651.585: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030656.662: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030703.695: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030710.520: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030718.890: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030724.143: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030728.371: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030737.151: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030745.979: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030753.942: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T030800.586: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170410T031733.37: fb_browse.py: 53:         spider_closed: INFO: Message - Logout Successfully
+20170410T033122.57: fb_browse.py: 53:         spider_closed: INFO: Message - Logout Successfully
+20170410T070601.242: fb_browse.py: 53:         spider_closed: INFO: Message - Logout Successfully
+20170410T072149.261: fb_browse.py: 53:         spider_closed: INFO: Message - Logout Successfully
+20170410T072946.670: fb_browse.py: 53:         spider_closed: INFO: Message - Logout Successfully
+20170410T073635.278: fb_browse.py: 53:         spider_closed: INFO: Message - Logout Successfully
+20170410T074627.805: fb_browse.py: 53:         spider_closed: INFO: Message - Logout Successfully
+20170410T074921.647: fb_browse.py: 53:         spider_closed: INFO: Message - Logout Successfully
+20170410T081059.835: fb_browse.py: 53:         spider_closed: INFO: Message - Logout Successfully
+20170410T082323.650: fb_browse.py: 53:         spider_closed: INFO: Message - Logout Successfully
+20170410T082843.665: fb_browse.py: 53:         spider_closed: INFO: Message - Logout Successfully
+20170410T083607.222: fb_browse.py: 53:         spider_closed: INFO: Message - Logout Successfully
+20170410T084138.581: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T084157.479: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T084211.897: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T084235.390: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T084255.958: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T092139.457: fb_browse.py: 53:         spider_closed: INFO: Message - Logout Successfully
+20170410T093042.222: fb_browse.py: 53:         spider_closed: INFO: Message - Logout Successfully
+20170410T094819.909: fb_browse.py: 53:         spider_closed: INFO: Message - Logout Successfully
+20170410T095100.1: fb_browse.py: 53:         spider_closed: INFO: Message - Logout Successfully
+20170410T095902.225: fb_browse.py: 53:         spider_closed: INFO: Message - Logout Successfully
+20170410T102254.759: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102301.178: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102309.569: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102318.763: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102327.265: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102333.18: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102340.359: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102349.63: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102355.936: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102403.452: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102410.865: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102417.596: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102426.428: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102434.384: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102443.171: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102451.263: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102457.892: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102505.474: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102513.310: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102522.243: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102529.118: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102537.990: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102544.51: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102552.830: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102600.225: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102609.506: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102617.258: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102625.515: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102633.374: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102641.293: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 16 (char 15)
+
+20170410T102641.620: fb_browse.py: 53:         spider_closed: INFO: Message - Logout Successfully
+20170410T104428.420: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104436.827: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104442.595: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104450.694: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104459.254: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104507.660: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104515.798: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104524.0: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104529.905: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104536.112: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104544.726: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104553.140: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104602.344: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104610.594: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104617.766: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104625.448: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104632.447: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104639.694: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104646.275: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104654.365: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104703.370: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104711.765: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104718.346: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104727.285: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104734.616: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104741.467: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104750.53: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104758.672: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104806.446: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104814.550: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104822.784: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104829.438: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104837.585: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104846.269: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104855.260: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104902.72: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104910.439: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104918.559: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104927.152: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104935.912: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104941.392: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104949.326: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104955.991: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T104959.682: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105008.75: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105014.284: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105020.855: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105027.461: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105032.669: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105040.794: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105049.179: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105055.324: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105102.387: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105110.491: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105118.384: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105124.818: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105130.767: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105135.385: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105139.426: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105144.372: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105152.483: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105200.921: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105205.684: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105213.663: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105222.185: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105230.502: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105237.797: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105245.872: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105254.258: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105302.127: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105310.945: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105318.217: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105321.613: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105330.273: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105337.5: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105345.308: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105352.818: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105359.544: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105405.116: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105413.481: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105422.265: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105427.890: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105435.447: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105444.194: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105452.216: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105459.925: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105508.709: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105516.385: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105525.327: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105531.716: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105539.124: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105547.465: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105551.680: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105558.39: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105604.251: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105611.474: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105617.944: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105624.384: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105632.392: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105639.88: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105645.559: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105652.696: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105659.739: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105708.393: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105715.798: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105724.675: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105732.281: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105741.166: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105748.98: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105754.706: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105800.510: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105809.573: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105818.397: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105826.510: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105835.90: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105839.698: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105846.738: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105855.509: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105903.908: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105911.774: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105917.724: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105926.171: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105934.351: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105942.788: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105951.480: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T105959.606: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110007.899: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110014.871: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110021.737: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110029.729: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110037.205: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110045.442: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110053.301: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110057.263: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110100.771: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110109.444: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110116.785: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110122.984: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110130.341: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110139.9: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110146.92: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110154.280: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110202.115: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110210.723: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110219.432: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110227.452: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110235.508: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110239.857: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110247.645: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110255.870: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110301.640: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110309.717: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110316.689: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110320.883: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110329.95: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110337.810: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110343.680: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110350.237: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110359.95: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110405.923: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110412.77: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110419.620: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110428.79: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110436.7: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110440.410: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110447.788: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110452.590: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110500.507: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110508.114: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110516.878: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110525.678: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110533.821: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110542.124: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110550.642: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110557.965: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110605.248: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110613.578: fb_browse.py: 407:         parse_profile: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 398, in parse_profile
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 1 column 8400 (char 8399)
+
+20170410T110619.218: fb_browse.py: 53:         spider_closed: INFO: Message - Logout Successfully

@@ -1,0 +1,62 @@
+20170609T003030.987: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T012622.576: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T013118.346: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T014337.456: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T015504.325: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T021502.240: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T025341.420: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T030643.93: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T031107.23: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T031802.981: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T032145.41: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T035724.556: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T053517.466: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T063523.526: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T072519.247: fb_browse.py: 378:         parse_likesdata: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 368, in parse_likesdata
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170609T072519.248: fb_browse.py: 379:         parse_likesdata: INFO: Message - https://mbasic.facebook.com/williemd?v=likes&sectionid=9999&lst=100007435239714%3A578170837%3A1497006923&startindex=55
+20170609T072542.242: fb_browse.py: 378:         parse_likesdata: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 368, in parse_likesdata
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170609T072542.242: fb_browse.py: 379:         parse_likesdata: INFO: Message - https://mbasic.facebook.com/williemd?v=likes&sectionid=9999&lst=100003640391098%3A578170837%3A1497006813&startindex=66
+20170609T072551.12: fb_browse.py: 378:         parse_likesdata: ERROR: Error: Traceback (most recent call last):
+  File "/root/Facebook/Facebook/spiders/fb_browse.py", line 368, in parse_likesdata
+    up_aux1 = json.loads(aux_cu[0][0].replace('\\',''))
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 15 (char 14)
+
+20170609T072551.13: fb_browse.py: 379:         parse_likesdata: INFO: Message - https://mbasic.facebook.com/williemd?v=likes&sectionid=9999&lst=100007435239714%3A578170837%3A1497006923&startindex=66
+20170609T072836.659: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T072844.485: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T080624.299: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T092736.341: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T092809.973: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T101942.142: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T103739.875: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T121456.674: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T132139.791: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T133008.881: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T140037.190: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
+20170609T221741.6: fb_browse.py: 35:         spider_closed: INFO: Message - Logout Successfully
