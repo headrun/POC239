@@ -13,6 +13,7 @@ from scrapy import signals
 from collections import OrderedDict
 from generic_functions import * 
 from dateutil import relativedelta
+from scrapy.utils.response import open_in_browser as oib
 
 class Linkedinactivities(scrapy.Spider):
 	name = "linkedinactivities_srp"
@@ -22,9 +23,9 @@ class Linkedinactivities(scrapy.Spider):
 	def __init__(self, *args, **kwargs):
 		super(Linkedinactivities, self).__init__(*args, **kwargs)
                 self.login = kwargs.get('login', 'raja')
-		self.url = kwargs.get('url', 'https://www.linkedin.com/in/nisha-shah-9a873416/')
-		self.logins_dict = {'raja':['','']}
-		self.filename = "LINKEDINACTIVITES_POC.csv"
+		self.url = kwargs.get('url', 'https://www.linkedin.com/in/manish-doshi-98a2241b/')
+		self.logins_dict = {'raja':['cheedellach@gmail.com','cheedellach427']}
+		self.filename = "poc_manish-doshi-98a2241b.csv"
 	        self.csv_file = self.is_path_file_name(self.filename)
 		self.fields = ['Activity Link', 'Subtitle', 'share descrition', 'title', 'share_url', 'post description', 'urn', 'article type', 'resolved url', 'article/feed image', 'Feed share by image', 'Feed share by [original name]'] 
 		self.csv_file.writerow(self.fields)
@@ -38,8 +39,40 @@ class Linkedinactivities(scrapy.Spider):
                 source_alias = ''.join(sel.xpath('//input[@name="sourceAlias"]/@value').extract())
 		login_account = self.logins_dict[self.login]
 		account_mail, account_password = login_account
-		return [FormRequest.from_response(response, formname = 'login_form',\
-			formdata={'session_key':account_mail,'session_password':account_password,'isJsEnabled':'','source_app':'','tryCount':'','clickedSuggestion':'','signin':'Sign In','session_redirect':'','trk':'hb_signin','loginCsrfParam':logincsrf,'fromEmail':'','csrfToken':csrf_token,'sourceAlias':source_alias},callback=self.parse_next, meta={'csrf_token':csrf_token})]
+		
+		data = [
+		  ('isJsEnabled', 'true'),
+		  ('source_app', ''),
+		  ('tryCount', ''),
+		  ('clickedSuggestion', 'false'),
+		  ('session_key', 'cheedellach@gmail.com'),
+		  ('session_password', 'cheedellach427'),
+		  ('signin', 'Sign In'),
+		  ('session_redirect', ''),
+		  ('trk', 'hb_signin'),
+		  ('loginCsrfParam', logincsrf),
+		  ('fromEmail', ''),
+		  ('csrfToken', csrf_token),
+		  ('sourceAlias', source_alias),
+		  ('client_v', '1.0.1'),
+		]
+		headers = {
+		    'cookie': response.headers.getlist('Set-Cookie'),
+		    'origin': 'https://www.linkedin.com',
+		    'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
+		    'x-requested-with': 'XMLHttpRequest',
+		    'x-isajaxform': '1',
+		    'accept-encoding': 'gzip, deflate, br',
+		    'pragma': 'no-cache',
+		    'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36',
+		    'content-type': 'application/x-www-form-urlencoded',
+		    'accept': '*/*',
+		    'cache-control': 'no-cache',
+		    'authority': 'www.linkedin.com',
+		    'referer': 'https://www.linkedin.com/',
+		}
+		yield FormRequest('https://www.linkedin.com/uas/login-submit', callback=self.parse_next, formdata=data, headers = headers, meta = {"csrf_token":csrf_token})
+
 
 	def is_path_file_name(self, excel_file_name):
 		if os.path.isfile(excel_file_name):
@@ -54,8 +87,20 @@ class Linkedinactivities(scrapy.Spider):
 	def parse_next(self, response):
 		sel = Selector(response)
 		csrf_token = response.meta.get('csrf_token', '')
+		li_at = ''.join([i for i in response.headers.get('Set-Cookie').split(';') if 'li_at' in i]).split('=', 1)[-1]
+		headers = {
+		    'accept-encoding': 'gzip, deflate, br',
+		    'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
+		    'upgrade-insecure-requests': '1',
+		    'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36',
+		    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+		    'cache-control': 'max-age=0',
+		    'authority': 'www.linkedin.com',
+		    'cookie': 'JSESSIONID="%s"; li_at=%s;' % (csrf_token, li_at),
+		}
+		csrf_token = response.meta.get('csrf_token', '')
 		if self.url:
-			yield Request(self.url, callback=self.parse_profilepage, meta = {'csrf_token':csrf_token})
+			yield Request(self.url, callback=self.parse_profilepage, meta = {'csrf_token':csrf_token}, headers = headers)
 
 
 	def parse_profilepage(self, response):
@@ -77,7 +122,7 @@ class Linkedinactivities(scrapy.Spider):
 		except:
 			pass
 		if profil_data:
-			api_compid_url = "https://www.linkedin.com/voyager/api/feed/updates?count=5&moduleKey=member-activity:phone&numComments=0&numLikes=0&profileId=%s&q=memberFeed" % profil_data
+			api_compid_url = "https://www.linkedin.com/voyager/api/feed/updates?count=20&&includeLongTermHistory=true&moduleKey=member-activity:phone&numComments=0&numLikes=0&profileId=%s&q=memberFeed" % profil_data
 			yield Request(api_compid_url, callback = self.parse_correct, meta = {
 		    'csrf_token': response.meta['csrf_token'], 'headers':headers, 'api_url':api_compid_url
 		}, headers = headers)
@@ -94,14 +139,22 @@ class Linkedinactivities(scrapy.Spider):
 			share_con = whole_tx.get('originalUpdate', {}).get('value', {}).get('com.linkedin.voyager.feed.ShareUpdate', {}).get('content', {})
 			if not share_con:
 				share_con = whole_tx.get('originalUpdate', {}).get('value', {}).get('com.linkedin.voyager.feed.Reshare', {}).get('originalUpdate', {}).get('value', {}).get('com.linkedin.voyager.feed.ShareUpdate', {}).get('content', {})
+			if not share_con:
+				share_con  =  whole_tx.get('content', {})
 			origna_up = whole_tx.get('originalUpdate', {}).get('value', {}).get('com.linkedin.voyager.feed.ShareUpdate', {}).get('actor', {})
 			if not origna_up:
 				origna_up = whole_tx.get('originalUpdate', {}).get('value', {}).get('com.linkedin.voyager.feed.Reshare', {}).get('actor', {})
+			#whole_tx.get('originalUpdate', {}).get('value', {}).get('com.linkedin.voyager.feed.Reshare', {}).get('text', {}).get('values')
+			if not origna_up:
+				origna_up = whole_tx.get('actor', {})
 			orinna_kys = origna_up.keys()
+			mini_prifil = {}
 			if orinna_kys:
-				mini_prifil = origna_up.get(orinna_kys[0], {}).get('miniProfile', {})
+				try:mini_prifil = origna_up.get(orinna_kys[0], {}).get('miniProfile', {})
+				except:pass
 				if not mini_prifil:
-					mini_prifil = origna_up.get(orinna_kys[0], {}).get('miniCompany', {})
+					try:mini_prifil = origna_up.get(orinna_kys[0], {}).get('miniCompany', {})
+					except:pass
 			share_post_orinal_name = mini_prifil.get('name', '')
 			if not share_post_orinal_name:
 				share_post_orinal_finame = mini_prifil.get('firstName', '')
@@ -119,6 +172,7 @@ class Linkedinactivities(scrapy.Spider):
 			if widhth_finla and root_url_pict:
 				final_root_widht = "%s%s" % (root_url_pict, widhth_finla)
 			share_keys = share_con.keys()
+			share_key_one = ''
 			if share_keys:
 				share_key_one = share_keys[0]
 			share_update = share_con.get(share_key_one , {})
@@ -126,6 +180,13 @@ class Linkedinactivities(scrapy.Spider):
 			share_description = share_update.get('description', '')
 			if not share_description:
 				share_description = whole_tx.get('attributedText', {}).get('text', '')
+			if not share_description:
+				share_description = []
+				a_share_description = whole_tx.get('originalUpdate', {}).get('value', {}).get('com.linkedin.voyager.feed.Reshare', {}).get('text', {}).get('values', [])
+				for asd in a_share_description:
+					des1_ = asd.get('value')
+					share_description.append(des1_)
+				share_description = ' '.join(share_description)
 			title = share_update.get('title', '')
 			share_url = share_update.get('url', '')
 			descii_list = share_update.get('text', {}).get('values', [])
@@ -141,13 +202,13 @@ class Linkedinactivities(scrapy.Spider):
  			values = [permalink, subtitle, share_description, title, share_url, post_desc_fi, urn, article_typ, resolved_url, article_image, final_root_widht, share_post_orinal_name ]
 			values = [normalize(i) for i in values]
 			self.csv_file.writerow(values)
-	
 		url_paging  = data.get('paging',[])
 		if url_paging:
 			count_data = url_paging.get('count','')
 			start_data = url_paging.get('start','')
 			total_data = url_paging.get('total','')
 			pagination_token = data.get('metadata', {}).get('paginationToken', '')
-			if total_data > count_data+start_data and pagination_token:
+			#if total_data > count_data+start_data and pagination_token:
+			if pagination_token:
 				retrun_url = "%s%s%s%s%s%s"%(api_compid_url, '&', 'paginationToken=', pagination_token,'&start=', start_data+count_data)
 				yield Request(retrun_url, headers=headers, callback=self.parse_correct, meta={'api_url':api_compid_url, 'headers':headers})
