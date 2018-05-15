@@ -23,11 +23,11 @@ class Linkedinactivities(scrapy.Spider):
 	def __init__(self, *args, **kwargs):
 		super(Linkedinactivities, self).__init__(*args, **kwargs)
                 self.login = kwargs.get('login', 'raja')
-		self.url = kwargs.get('url', 'https://www.linkedin.com/in/manish-doshi-98a2241b/')
+		self.url = kwargs.get('url', 'https://www.linkedin.com/in/sudeept/')
 		self.logins_dict = {'raja':['cheedellach@gmail.com','cheedellach427']}
-		self.filename = "poc_manish-doshi-98a2241b.csv"
+		self.filename = "poc_%s.csv" % (self.url).replace('https://www.linkedin.com/in/', '').replace('/', '')
 	        self.csv_file = self.is_path_file_name(self.filename)
-		self.fields = ['Activity Link', 'Subtitle', 'share descrition', 'title', 'share_url', 'post description', 'urn', 'article type', 'resolved url', 'article/feed image', 'Feed share by image', 'Feed share by [original name]'] 
+		self.fields = ['Activity Link', 'Subtitle', 'share descrition', 'title', 'share_url', 'post description', 'urn', 'article type', 'resolved url', 'article/feed image', 'Feed share by image', 'Feed share by [original name]', 'Video_Link'] 
 		self.csv_file.writerow(self.fields)
                 dispatcher.connect(self.spider_closed, signals.spider_closed)
                 self.domain = "https://www.linkedin.com"
@@ -107,13 +107,33 @@ class Linkedinactivities(scrapy.Spider):
                 sel = Selector(response)
                 cooki_list = response.request.headers.get('Cookie', [])
                 li_at_cookie = ''.join(re.findall('li_at=(.*?); ', cooki_list))
+		'''
                 headers = {
                     'cookie': 'li_at=%s;JSESSIONID="%s"' % (li_at_cookie, response.meta['csrf_token']),
                     'x-requested-with': 'XMLHttpRequest',
                     'csrf-token': response.meta['csrf_token'],
                     'authority': 'www.linkedin.com',
                     'referer': 'https://www.linkedin.com/',
+                }'''
+
+                headers = {
+                    'cookie': 'li_at=%s;JSESSIONID="%s"' % (li_at_cookie, response.meta['csrf_token']),
+                    'x-requested-with': 'XMLHttpRequest',
+                    'csrf-token': response.meta['csrf_token'],
+                    'authority': 'www.linkedin.com',
+		    'accept-encoding': 'gzip, deflate, br',
+		    'x-li-lang': 'en_US',
+		    'accept-language': 'en-US,en;q=0.9',
+		    'pragma': 'no-cache',
+		    #'x-restli-protocol-version': '2.0.0',
+	            #'accept': 'application/vnd.linkedin.normalized+json',
+		    'cache-control': 'no-cache',
+	            'x-li-track': '{"clientVersion":"1.1.6826","osName":"web","timezoneOffset":5.5,"deviceFormFactor":"DESKTOP","mpName":"voyager-web"}',
+		    'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.170 Safari/537.36',
+		    'referer': str(response.url),
+
                 }
+		
 		profil_data = ''
 		try:
 			profile_data = json.loads(sel.xpath('//code[contains(text(),"profile.ProfileView")]/text()').extract()[0])['data']['profile']
@@ -122,10 +142,11 @@ class Linkedinactivities(scrapy.Spider):
 		except:
 			pass
 		if profil_data:
-			api_compid_url = "https://www.linkedin.com/voyager/api/feed/updates?count=20&&includeLongTermHistory=true&moduleKey=member-activity:phone&numComments=0&numLikes=0&profileId=%s&q=memberFeed" % profil_data
+			api_compid_url = "https://www.linkedin.com/voyager/api/feed/updates?count=20&&includeLongTermHistory=true&moduleKey=member-activity%3Aphone&numComments=0&numLikes=0&profileId="+str(profil_data)+"&q=memberFeed"
 			yield Request(api_compid_url, callback = self.parse_correct, meta = {
 		    'csrf_token': response.meta['csrf_token'], 'headers':headers, 'api_url':api_compid_url
 		}, headers = headers)
+			
 
 	def parse_correct(self, response):
                 data = json.loads(response.body)
@@ -133,6 +154,7 @@ class Linkedinactivities(scrapy.Spider):
 		headers = response.meta.get('headers', {})
 		data_elements = data.get('elements', [])
 		for datae in data_elements:
+			video_link = ''
 			permalink = datae.get('permalink', '')
 			keys_va = datae.get('value', {}).keys()[0]
 			whole_tx = datae.get('value', {}).get(keys_va)
@@ -181,6 +203,8 @@ class Linkedinactivities(scrapy.Spider):
 			if not share_description:
 				share_description = whole_tx.get('attributedText', {}).get('text', '')
 			if not share_description:
+				share_description = whole_tx.get('header',{}).get('text','')
+			if not share_description:
 				share_description = []
 				a_share_description = whole_tx.get('originalUpdate', {}).get('value', {}).get('com.linkedin.voyager.feed.Reshare', {}).get('text', {}).get('values', [])
 				for asd in a_share_description:
@@ -199,7 +223,12 @@ class Linkedinactivities(scrapy.Spider):
 			article_typ = share_update.get('articleType', '')
 			resolved_url = share_update.get('resolvedUrl', '')
 			article_image = share_update.get('image', {}).get('com.linkedin.voyager.common.MediaProxyImage', {}).get('url', '')
- 			values = [permalink, subtitle, share_description, title, share_url, post_desc_fi, urn, article_typ, resolved_url, article_image, final_root_widht, share_post_orinal_name ]
+			video_links = whole_tx.get('originalUpdate',{}).get('value',{}).get('com.linkedin.voyager.feed.ShareUpdate',{}).get('content',{}).get('com.linkedin.voyager.feed.ShareNativeVideo',{}).get('videoPlayMetadata',{}).get('progressiveStreams',[])
+			for vid_link in video_links:
+				video_url = vid_link.get('streamingLocations',[])
+				for v_url in video_url:
+					video_link = v_url.get('url','')
+			values = [permalink, subtitle, share_description, title, share_url, post_desc_fi, urn, article_typ, resolved_url, article_image, final_root_widht, share_post_orinal_name, video_link]
 			values = [normalize(i) for i in values]
 			self.csv_file.writerow(values)
 		url_paging  = data.get('paging',[])
@@ -209,6 +238,30 @@ class Linkedinactivities(scrapy.Spider):
 			total_data = url_paging.get('total','')
 			pagination_token = data.get('metadata', {}).get('paginationToken', '')
 			#if total_data > count_data+start_data and pagination_token:
+			if pagination_token:
+				retrun_url = "%s%s%s%s%s%s"%(api_compid_url, '&', 'paginationToken=', pagination_token,'&start=', start_data+count_data)
+				yield Request(retrun_url, headers=headers, callback=self.parse_correct, meta={'api_url':api_compid_url, 'headers':headers})
+
+
+	def parse_Vidcorrect(self, response):
+                data = json.loads(response.body)
+		vid_list, video_link = [], ''
+		api_compid_url = response.meta.get('api_url', '')
+		headers = response.meta.get('headers', {})
+		includes  = data.get('included', {})
+		for include in includes:
+			url = include.get('url','')
+			if '/playback/' in url:
+				vid_list.append(url)
+		for vid_link in set(vid_list):
+			video_link = vid_link
+			print video_link
+		meta_datas   = data.get('data',{})
+		if meta_datas:
+			count_data = meta_datas.get('paging', {}).get('count','')
+			start_data = meta_datas.get('paging', {}).get('start','')
+			total_data = meta_datas.get('paging', {}).get('total','')
+			pagination_token = meta_datas.get('metadata', {}).get('paginationToken', '')
 			if pagination_token:
 				retrun_url = "%s%s%s%s%s%s"%(api_compid_url, '&', 'paginationToken=', pagination_token,'&start=', start_data+count_data)
 				yield Request(retrun_url, headers=headers, callback=self.parse_correct, meta={'api_url':api_compid_url, 'headers':headers})
